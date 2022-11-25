@@ -1,0 +1,22 @@
+Meer Kareem
+535 Cleveland Ave, Bridgeport, CT 06604
+(475) 343-1002
+meerkareem1@gmail.com
+
+I've been working with GIS software, specifically QGIS and ARCGIS Pro for over 4 years, allowing me
+to be proficient in using coding language like Python and SQL. 
+ 
+Currently working for the US Army National Guard as a wheeled vehicle mechanic. 
+
+University of Connecticut (Storrs, ct)
+
+Civil Engineer (Minor in Geographic Information Systems) (2019 - 2023)
+
+Planning, designing, constructing, maintaining, and operating infrastructure while protecting the public and 
+environmental health, as well as improving existing infrastructure that may have been neglected.
+
+- Senior Design (Transportation Facility Design)
+
+
+
+
