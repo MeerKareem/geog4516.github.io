@@ -5,6 +5,7 @@ Meer Kareem
 ***
 meer.kareem@uconn.edu
 
+SUMMARY
 I've been working with GIS software, specifically QGIS and ARCGIS Pro for over 4 years, allowing me
 to be proficient in using coding language like Python and SQL. 
  
