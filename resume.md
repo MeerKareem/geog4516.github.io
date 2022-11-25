@@ -1,7 +1,9 @@
 Meer Kareem
-535 Cleveland Ave, Bridgeport, CT 06604
-(475) 343-1002
-meerkareem1@gmail.com
+
+***
+
+***
+meer.kareem@uconn.edu
 
 I've been working with GIS software, specifically QGIS and ARCGIS Pro for over 4 years, allowing me
 to be proficient in using coding language like Python and SQL. 
